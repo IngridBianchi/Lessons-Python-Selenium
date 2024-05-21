@@ -74,7 +74,6 @@ class GitHubLogin(AbstractLogin):
             print("Ocurrió un error de tipo:", type(un_error))
             print("Detalles del error:", un_error)
 
-
 # Usando instancia de la clase autologin
 
 ruta_excel = "/home/alejandro/Escritorio/prueba.ods"
