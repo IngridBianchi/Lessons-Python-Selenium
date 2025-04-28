@@ -6,8 +6,8 @@ from selenium.webdriver.common.by import By
 
 
 def completeForm ():
-    name="Alejandro"
-    surname="Arrua"
+    name="Ingrid"
+    surname="Bianchi"
     driver=webdriver.Chrome()
     driver.get("https://validaciones.rodrigovillanueva.com.mx/index.html")
     driver.maximize_window()

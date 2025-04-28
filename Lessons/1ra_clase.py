@@ -4,8 +4,8 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 
 def completeForm():
-    name = "Alejandro Oscar"
-    surname = "Arrua"
+    name = "Ingrid"
+    surname = "Bianchi"
 
     chrome_options = webdriver.ChromeOptions()
     chrome_options.binary_location = '/path/to/chromium'

@@ -1,4 +1,0 @@
-from tests.test_cliente import test_crear_cliente_desde_json, test_completar_formulario_selenium
-
-test_crear_cliente_desde_json()
-test_completar_formulario_selenium()

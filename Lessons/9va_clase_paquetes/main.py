@@ -5,4 +5,4 @@ if __name__ == "__main__":
 
     # Accedo a las funciones de los módulos
     saludar_modulo1("Jorge")
-    saludar_modulo2("Yorch")
+    saludar_modulo2("Juan")
